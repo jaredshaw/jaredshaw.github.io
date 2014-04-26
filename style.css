@@ -135,7 +135,7 @@ section.careers h1{
 }
 
 .greenbox{
-    position: absolute;
+    position: relative;
     margin: auto;
     width: 800px;
     height: 200px;
