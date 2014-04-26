@@ -140,6 +140,7 @@ section.careers h1{
     height: 200px;
     z-index: 5;
     top: 50%;
+    margin-top: -100px;
     left: 50%;
     margin-left: -400px;
     background-color: green;
