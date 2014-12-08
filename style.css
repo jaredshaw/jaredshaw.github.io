@@ -20,6 +20,13 @@ ul.navigation{
 header{
     padding: 0 120px 0 120px;
 }
+
+.headphoto{
+    position: relative;
+    left: -20px;
+}
+
+
 .logo{
     margin-top: 30px;
 }
